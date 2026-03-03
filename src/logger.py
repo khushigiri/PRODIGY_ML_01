@@ -1,7 +1,6 @@
 import logging
 import os
 
-# Create logs folder if not exists
 log_dir = "../logs"
 os.makedirs(log_dir, exist_ok=True)
 

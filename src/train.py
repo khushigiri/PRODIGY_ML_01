@@ -24,7 +24,6 @@ try:
     logger.info("Making predictions...")
     y_pred = model.predict(X_test)
 
-    # 📊 Evaluation Metrics
     mse = mean_squared_error(y_test, y_pred)
     r2 = r2_score(y_test, y_pred)
 

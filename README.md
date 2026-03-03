@@ -1,8 +1,6 @@
 
 # House Price Prediction using Linear Regression
 
-## Project Overview
-
 This project implements a Multiple Linear Regression model to predict house prices based on:
 
 - Square Footage
